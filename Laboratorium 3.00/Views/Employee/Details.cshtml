@@ -1,0 +1,25 @@
+﻿@model Employee
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<h2>Szczegóły Pracownika</h2>
+<div>
+    <dl class="dl-horizontal">
+        <dt>Imię</dt>
+        <dd>@Model.FirstName</dd>
+        <dt>Nazwisko</dt>
+        <dd>@Model.LastName</dd>
+        <dt>Pesel</dt>
+        <dd>@Model.PESEL</dd>
+        <dt>Stanowisko</dt>
+        <dd>@Model.Position</dd>
+        <dt>Data Zatrudnienia</dt>
+        <dd>@Model.HireDate</dd>
+    </dl>
+</div>
+<p>
+    <a asp-action="Index" asp-controller="Employee">Powrót do listy</a>
+</p>

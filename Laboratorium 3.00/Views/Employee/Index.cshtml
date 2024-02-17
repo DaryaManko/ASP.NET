@@ -1,0 +1,55 @@
+﻿@model List<Employee>
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@{
+
+}
+@{
+}
+<h2>Lista pracowników</h2>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model[0].FirstName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model[0].LastName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model[0].Position)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model[0].Department)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model[0].Priority)
+        </th>
+        <th>
+            Akcje
+        </th>
+    </tr>
+    @foreach (var employee in Model)
+    {
+        <tr>
+            <td>
+                @employee.FirstName
+            </td>
+            <td>
+                @employee.LastName
+            </td>
+            <td>
+                @employee.Position
+            </td>
+            <td>
+                @employee.Department
+            </td>
+            <td>
+                @employee.Priority.GetDisplayName()
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@employee.Id">Edytuj</a> |
+                <a asp-action="Details" asp-route-id="@employee.Id">Szczegóły</a> |
+                <a asp-action="Delete" asp-route-id="@employee.Id">Usuń</a>
+            </td>
+        </tr>
+    }
+</table>

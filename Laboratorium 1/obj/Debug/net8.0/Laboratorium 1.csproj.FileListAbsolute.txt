@@ -1,0 +1,30 @@
+C:\Users\Дашп\source\repos\Laboratorium ASP.NET\Laboratorium 1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Дашп\source\repos\Laboratorium ASP.NET\Laboratorium 1\bin\Debug\net8.0\appsettings.json
+C:\Users\Дашп\source\repos\Laboratorium ASP.NET\Laboratorium 1\bin\Debug\net8.0\Laboratorium 1.staticwebassets.runtime.json
+C:\Users\Дашп\source\repos\Laboratorium ASP.NET\Laboratorium 1\bin\Debug\net8.0\Laboratorium 1.exe
+C:\Users\Дашп\source\repos\Laboratorium ASP.NET\Laboratorium 1\bin\Debug\net8.0\Laboratorium 1.deps.json
+C:\Users\Дашп\source\repos\Laboratorium ASP.NET\Laboratorium 1\bin\Debug\net8.0\Laboratorium 1.runtimeconfig.json
+C:\Users\Дашп\source\repos\Laboratorium ASP.NET\Laboratorium 1\bin\Debug\net8.0\Laboratorium 1.dll
+C:\Users\Дашп\source\repos\Laboratorium ASP.NET\Laboratorium 1\bin\Debug\net8.0\Laboratorium 1.pdb
+C:\Users\Дашп\source\repos\Laboratorium ASP.NET\Laboratorium 1\obj\Debug\net8.0\Laboratorium 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дашп\source\repos\Laboratorium ASP.NET\Laboratorium 1\obj\Debug\net8.0\Laboratorium 1.AssemblyInfoInputs.cache
+C:\Users\Дашп\source\repos\Laboratorium ASP.NET\Laboratorium 1\obj\Debug\net8.0\Laboratorium 1.AssemblyInfo.cs
+C:\Users\Дашп\source\repos\Laboratorium ASP.NET\Laboratorium 1\obj\Debug\net8.0\Laboratorium 1.csproj.CoreCompileInputs.cache
+C:\Users\Дашп\source\repos\Laboratorium ASP.NET\Laboratorium 1\obj\Debug\net8.0\Laboratorium 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Дашп\source\repos\Laboratorium ASP.NET\Laboratorium 1\obj\Debug\net8.0\Laboratorium 1.RazorAssemblyInfo.cache
+C:\Users\Дашп\source\repos\Laboratorium ASP.NET\Laboratorium 1\obj\Debug\net8.0\Laboratorium 1.RazorAssemblyInfo.cs
+C:\Users\Дашп\source\repos\Laboratorium ASP.NET\Laboratorium 1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Дашп\source\repos\Laboratorium ASP.NET\Laboratorium 1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Дашп\source\repos\Laboratorium ASP.NET\Laboratorium 1\obj\Debug\net8.0\staticwebassets\msbuild.Laboratorium 1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Дашп\source\repos\Laboratorium ASP.NET\Laboratorium 1\obj\Debug\net8.0\staticwebassets\msbuild.build.Laboratorium 1.props
+C:\Users\Дашп\source\repos\Laboratorium ASP.NET\Laboratorium 1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Laboratorium 1.props
+C:\Users\Дашп\source\repos\Laboratorium ASP.NET\Laboratorium 1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Laboratorium 1.props
+C:\Users\Дашп\source\repos\Laboratorium ASP.NET\Laboratorium 1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Дашп\source\repos\Laboratorium ASP.NET\Laboratorium 1\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Дашп\source\repos\Laboratorium ASP.NET\Laboratorium 1\obj\Debug\net8.0\scopedcss\bundle\Laboratorium 1.styles.css
+C:\Users\Дашп\source\repos\Laboratorium ASP.NET\Laboratorium 1\obj\Debug\net8.0\scopedcss\projectbundle\Laboratorium 1.bundle.scp.css
+C:\Users\Дашп\source\repos\Laboratorium ASP.NET\Laboratorium 1\obj\Debug\net8.0\Laboratorium 1.dll
+C:\Users\Дашп\source\repos\Laboratorium ASP.NET\Laboratorium 1\obj\Debug\net8.0\refint\Laboratorium 1.dll
+C:\Users\Дашп\source\repos\Laboratorium ASP.NET\Laboratorium 1\obj\Debug\net8.0\Laboratorium 1.pdb
+C:\Users\Дашп\source\repos\Laboratorium ASP.NET\Laboratorium 1\obj\Debug\net8.0\Laboratorium 1.genruntimeconfig.cache
+C:\Users\Дашп\source\repos\Laboratorium ASP.NET\Laboratorium 1\obj\Debug\net8.0\ref\Laboratorium 1.dll
